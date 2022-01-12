@@ -1,3 +1,5 @@
+# Watch the video here: https://www.youtube.com/watch?v=2WI0rscJG5g
+
 # make a hangman game with a copilot
 
 # import modules
